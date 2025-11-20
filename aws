@@ -1,1 +1,17 @@
 Dashboard/aws learner lab/modules/launch aws learner lab/i agree/ start lab
+
+Left top
+AWS/EC2(in recently visited) /
+Launch instance/name(myex), application and os img(ubuntu), instance type(t2.micro),key pair(create), 
+network settings (allow)->launch instance/Instances
+
+In Instances
+
+select myex and connect 
+
+ Now in cm
+
+cd key pair file path
+ssh path
+
+Now we are into ubuntu
